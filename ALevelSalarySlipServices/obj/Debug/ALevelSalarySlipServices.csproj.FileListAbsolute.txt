@@ -1,0 +1,16 @@
+E:\Project\ALevelSalarySlipServices\ALevelSalarySlipServices\obj\Debug\ALevelSalarySlipServices.csprojResolveAssemblyReference.cache
+E:\Project\ALevelSalarySlipServices\ALevelSalarySlipServices\bin\ALevelSalarySlipServices.dll
+E:\Project\ALevelSalarySlipServices\ALevelSalarySlipServices\bin\ALevelSalarySlipServices.pdb
+E:\Project\ALevelSalarySlipServices\ALevelSalarySlipServices\bin\ALevelSalarySlipServices.DAL.dll
+E:\Project\ALevelSalarySlipServices\ALevelSalarySlipServices\bin\ALevelSalarySlipServices.DAL.pdb
+E:\Project\ALevelSalarySlipServices\ALevelSalarySlipServices\obj\Debug\ALevelSalarySlipServices.dll
+E:\Project\ALevelSalarySlipServices\ALevelSalarySlipServices\obj\Debug\ALevelSalarySlipServices.pdb
+F:\ALevelSalarySlipServices\ALevelSalarySlipServices\bin\ALevelSalarySlipServices.dll
+F:\ALevelSalarySlipServices\ALevelSalarySlipServices\bin\ALevelSalarySlipServices.pdb
+F:\ALevelSalarySlipServices\ALevelSalarySlipServices\bin\ALevelSalarySlipServices.DAL.dll
+F:\ALevelSalarySlipServices\ALevelSalarySlipServices\bin\ALevelSalarySlipServices.DAL.pdb
+F:\ALevelSalarySlipServices\ALevelSalarySlipServices\obj\Debug\ALevelSalarySlipServices.dll
+F:\ALevelSalarySlipServices\ALevelSalarySlipServices\obj\Debug\ALevelSalarySlipServices.pdb
+F:\ALevelSalarySlipServices\ALevelSalarySlipServices\obj\Debug\ALevelSalarySlipServices.csproj.AssemblyReference.cache
+F:\ALevelSalarySlipServices\ALevelSalarySlipServices\obj\Debug\ALevelSalarySlipServices.csproj.CoreCompileInputs.cache
+F:\ALevelSalarySlipServices\ALevelSalarySlipServices\obj\Debug\ALevelSalarySlipServices.csproj.CopyComplete

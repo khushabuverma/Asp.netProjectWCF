@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\A Level Salary Slip" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="ALevelSalarySlipAPI.svc" publishTime="12/10/2019 17:15:00" />
+    <file relUrl="bin/ALevelSalarySlipServices.dll" publishTime="04/06/2021 17:27:46" />
+    <file relUrl="bin/ALevelSalarySlipServices.pdb" publishTime="04/06/2021 17:27:46" />
+    <file relUrl="bin/ALevelSalarySlipServices.DAL.pdb" publishTime="04/06/2021 17:20:20" />
+    <file relUrl="bin/ALevelSalarySlipServices.DAL.dll" publishTime="04/06/2021 17:20:21" />
+    <file relUrl="Web.config" publishTime="04/06/2021 17:20:21" />
+  </publishProfile>
+</publishData>
